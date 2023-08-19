@@ -8,5 +8,15 @@ print(x,y,z)
 print('x is', 5)
 print('y is', 6)
 print('z is', 7)
-a=1
-print(a)
+
+
+name = "sangamesh"
+print(name)
+k=10
+M = type(k)
+print(M)
+
+
+name = input("Enter your name")
+print("welcome onboard mr",name)
+print(type(name))
